@@ -1,0 +1,77 @@
+[
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\Application.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\Application.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/Application.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_demo.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_demo.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_draw.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_tables.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_widgets.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\Bit.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\Bit.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/Bit.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\BitHolder.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\BitHolder.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/BitHolder.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\Game.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\Game.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/Game.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\Sprite.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\Sprite.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/Sprite.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\Square.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\Square.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/Square.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\classes\\TicTacToe.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\classes\\TicTacToe.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/classes/TicTacToe.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\main_win32.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\main_win32.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/main_win32.cpp"
+},
+{
+  "directory": "C:/Users/sooin/Desktop/ticktactoe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tictactoe.dir\\imgui\\imgui_impl_win32.cpp.obj -c C:\\Users\\sooin\\Desktop\\ticktactoe\\imgui\\imgui_impl_win32.cpp",
+  "file": "C:/Users/sooin/Desktop/ticktactoe/imgui/imgui_impl_win32.cpp"
+}
+]

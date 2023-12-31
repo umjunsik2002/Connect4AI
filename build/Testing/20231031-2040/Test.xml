@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20231031-2040-Experimental"
+	Name="VOSTRO-7590"
+	Generator="ctest-3.20.21032501-MSVC_2"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x64/cl.exe"
+	CompilerVersion="19.29.30147.0"
+	OSName="Windows"
+	Hostname="VOSTRO-7590"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="27427"
+	TotalPhysicalMemory="16163"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2591"
+	>
+	<Testing>
+		<StartDateTime>Oct 31 13:40 [NON-UTF-8-BYTE-0xC5][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xC6][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xBE][NON-UTF-8-BYTE-0xE7] [NON-UTF-8-BYTE-0xC0]ϱ[NON-UTF-8-BYTE-0xA4] [NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xFD][NON-UTF-8-BYTE-0xBE][NON-UTF-8-BYTE-0xE0] [NON-UTF-8-BYTE-0xBD]ð[NON-UTF-8-BYTE-0xA3]</StartDateTime>
+		<StartTestTime>1698784819</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 31 13:40 [NON-UTF-8-BYTE-0xC5][NON-UTF-8-BYTE-0xC2][NON-UTF-8-BYTE-0xC6][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xBE][NON-UTF-8-BYTE-0xE7] [NON-UTF-8-BYTE-0xC0]ϱ[NON-UTF-8-BYTE-0xA4] [NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xFD][NON-UTF-8-BYTE-0xBE][NON-UTF-8-BYTE-0xE0] [NON-UTF-8-BYTE-0xBD]ð[NON-UTF-8-BYTE-0xA3]</EndDateTime>
+		<EndTestTime>1698784819</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
